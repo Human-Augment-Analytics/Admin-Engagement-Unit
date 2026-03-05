@@ -5,6 +5,7 @@
 - Ilia Jahanshahi
 - Erik Norby
 - Amanjit Singh
+- Amr Arafa
 
 ## Key Question
 
